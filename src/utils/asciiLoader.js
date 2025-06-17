@@ -91,8 +91,6 @@ export class AsciiLoader {
       try {
         const asciiPath = `/ascii/${mode}/${fileName}.json`;
         
-        console.log(`Trying to load ASCII art: ${asciiPath}`);
-        
         const response = await fetch(asciiPath);
         
         if (response.ok) {
@@ -109,7 +107,6 @@ export class AsciiLoader {
         
       } catch (error) {
         // Continue to next variation
-        console.log(`Failed variation ${fileName}:`, error.message);
       }
     }
 
@@ -144,8 +141,6 @@ export class AsciiLoader {
 
   // Preload ASCII art for better performance
   async preloadAsciiArt(toolNames, mode) {
-    console.log(`Preloading ASCII art for ${toolNames.length} ${mode}...`);
-    
     const promises = toolNames.map(toolName => 
       this.loadAsciiArt(toolName, mode).catch(error => {
         console.warn(`Failed to preload ${toolName}:`, error.message);
@@ -154,7 +149,6 @@ export class AsciiLoader {
     );
     
     await Promise.all(promises);
-    console.log(`✓ Preloaded ASCII art for ${mode}`);
   }
 
   // Clear cache if needed

@@ -62,12 +62,18 @@
   white-space: nowrap;
   overflow: hidden;
   margin: 0.2rem 0;
+  height: 1.5em;
+  line-height: 1.5em;
+  display: flex;
+  align-items: center;
 }
 
 .description-line .spaces {
   display: inline-block;
   width: 0;
   animation: typeSpaces 0.5s steps(3) forwards;
+  height: 1.5em;
+  line-height: 1.5em;
 }
 
 .description-line .content {
@@ -75,6 +81,8 @@
   width: 0;
   overflow: hidden;
   border-right: 2px solid var(--terminal-magenta);
+  height: 1.5em;
+  line-height: 1.5em;
 }
 
 .line-1 .spaces {
@@ -224,22 +232,22 @@
   }
 
   .ascii-line {
-    font-size: 0.8rem;
-    letter-spacing: 0.2px;
+    font-size: 0.6rem;
+    letter-spacing: 0.1px;
     word-wrap: break-word;
     overflow-wrap: break-word;
   }
 
   .mode-selector h2 {
-    font-size: 1.1rem;
-    letter-spacing: 0.5px;
+    font-size: 0.9rem;
+    letter-spacing: 0.3px;
     word-wrap: break-word;
     overflow-wrap: break-word;
   }
 
   .description {
-    font-size: 1.1rem;
-    letter-spacing: 0.3px;
+    font-size: 0.8rem;
+    letter-spacing: 0.2px;
     word-wrap: break-word;
     overflow-wrap: break-word;
   }
