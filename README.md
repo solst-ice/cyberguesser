@@ -147,3 +147,43 @@ npm run generate-manifest # Scan folders and generate image manifest
 npm run preview          # Preview production build
 npm run lint             # Run ESLint
 ```
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deployment to GitHub Pages
+
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+2. **Build the project:**
+   ```bash
+   npm run build
+   ```
+
+3. **Deploy to GitHub Pages:**
+   ```bash
+   npm run deploy
+   ```
+
+4. **Enable GitHub Pages:**
+   - Go to your repository on GitHub
+   - Navigate to Settings > Pages
+   - Set Source to "Deploy from a branch"
+   - Select the "gh-pages" branch
+   - Save the settings
+
+Your app will be available at: `https://[your-username].github.io/cyberguesser/`
+
+## Features
+
+- Cybersecurity-themed quiz game
+- ASCII art integration
+- Terminal-style UI
+- Responsive design
