@@ -1,0 +1,9872 @@
+[
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#232424"
+    },
+    {
+      "char": " ",
+      "color": "#1f2020"
+    },
+    {
+      "char": " ",
+      "color": "#0e1012"
+    },
+    {
+      "char": " ",
+      "color": "#131617"
+    },
+    {
+      "char": " ",
+      "color": "#1f2324"
+    },
+    {
+      "char": " ",
+      "color": "#23292c"
+    },
+    {
+      "char": "░",
+      "color": "#252d32"
+    },
+    {
+      "char": "░",
+      "color": "#273137"
+    },
+    {
+      "char": "░",
+      "color": "#27363e"
+    },
+    {
+      "char": "░",
+      "color": "#283942"
+    },
+    {
+      "char": "░",
+      "color": "#2a424f"
+    },
+    {
+      "char": "░",
+      "color": "#304c5d"
+    },
+    {
+      "char": "░",
+      "color": "#293d48"
+    },
+    {
+      "char": "░",
+      "color": "#30576b"
+    },
+    {
+      "char": "▓",
+      "color": "#4395c4"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f8"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f4"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb0e8"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb2ec"
+    },
+    {
+      "char": "▓",
+      "color": "#50bdfa"
+    },
+    {
+      "char": "█",
+      "color": "#57cdff"
+    },
+    {
+      "char": "█",
+      "color": "#5ddaff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ddbff"
+    },
+    {
+      "char": "█",
+      "color": "#58ceff"
+    },
+    {
+      "char": "▓",
+      "color": "#51bffd"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb3ed"
+    },
+    {
+      "char": "▓",
+      "color": "#4bafe8"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb7f3"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f7"
+    },
+    {
+      "char": "▓",
+      "color": "#4aa9dd"
+    },
+    {
+      "char": "▓",
+      "color": "#4698c6"
+    },
+    {
+      "char": "▓",
+      "color": "#438db8"
+    },
+    {
+      "char": "▓",
+      "color": "#4794bf"
+    },
+    {
+      "char": "▓",
+      "color": "#4692bd"
+    },
+    {
+      "char": "▓",
+      "color": "#4694bf"
+    },
+    {
+      "char": "▓",
+      "color": "#4899c6"
+    },
+    {
+      "char": "▒",
+      "color": "#3a6d8b"
+    },
+    {
+      "char": " ",
+      "color": "#242a2d"
+    },
+    {
+      "char": " ",
+      "color": "#24292d"
+    },
+    {
+      "char": " ",
+      "color": "#212527"
+    },
+    {
+      "char": " ",
+      "color": "#1d2021"
+    },
+    {
+      "char": " ",
+      "color": "#0f1212"
+    },
+    {
+      "char": " ",
+      "color": "#101212"
+    },
+    {
+      "char": " ",
+      "color": "#232324"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#232424"
+    },
+    {
+      "char": " ",
+      "color": "#1f2020"
+    },
+    {
+      "char": " ",
+      "color": "#0f1012"
+    },
+    {
+      "char": " ",
+      "color": "#131617"
+    },
+    {
+      "char": " ",
+      "color": "#202425"
+    },
+    {
+      "char": "░",
+      "color": "#242c30"
+    },
+    {
+      "char": "░",
+      "color": "#273136"
+    },
+    {
+      "char": "░",
+      "color": "#27353d"
+    },
+    {
+      "char": "░",
+      "color": "#283942"
+    },
+    {
+      "char": "░",
+      "color": "#293e48"
+    },
+    {
+      "char": "░",
+      "color": "#2a414e"
+    },
+    {
+      "char": "░",
+      "color": "#304f5e"
+    },
+    {
+      "char": "▒",
+      "color": "#3b7a9d"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb3ec"
+    },
+    {
+      "char": "▓",
+      "color": "#4ebbf7"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb0ea"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb4ed"
+    },
+    {
+      "char": "█",
+      "color": "#53c4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cd7ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cd9ff"
+    },
+    {
+      "char": "█",
+      "color": "#54c6ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb6f0"
+    },
+    {
+      "char": "▓",
+      "color": "#4bafea"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb7f1"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb7f1"
+    },
+    {
+      "char": "▓",
+      "color": "#48a2d5"
+    },
+    {
+      "char": "▒",
+      "color": "#3b7292"
+    },
+    {
+      "char": "▒",
+      "color": "#376984"
+    },
+    {
+      "char": "▒",
+      "color": "#3b7391"
+    },
+    {
+      "char": "▒",
+      "color": "#3d7594"
+    },
+    {
+      "char": "░",
+      "color": "#315366"
+    },
+    {
+      "char": "░",
+      "color": "#252e34"
+    },
+    {
+      "char": "░",
+      "color": "#242c31"
+    },
+    {
+      "char": " ",
+      "color": "#232729"
+    },
+    {
+      "char": " ",
+      "color": "#1d2021"
+    },
+    {
+      "char": " ",
+      "color": "#101212"
+    },
+    {
+      "char": " ",
+      "color": "#101212"
+    },
+    {
+      "char": " ",
+      "color": "#232324"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#232424"
+    },
+    {
+      "char": " ",
+      "color": "#1f2020"
+    },
+    {
+      "char": " ",
+      "color": "#0f1012"
+    },
+    {
+      "char": " ",
+      "color": "#141718"
+    },
+    {
+      "char": " ",
+      "color": "#1f272a"
+    },
+    {
+      "char": "░",
+      "color": "#253035"
+    },
+    {
+      "char": "░",
+      "color": "#27343a"
+    },
+    {
+      "char": "░",
+      "color": "#283741"
+    },
+    {
+      "char": "░",
+      "color": "#293d48"
+    },
+    {
+      "char": "░",
+      "color": "#283942"
+    },
+    {
+      "char": "░",
+      "color": "#305466"
+    },
+    {
+      "char": "▓",
+      "color": "#469dcd"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbcf9"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb3ec"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb3ec"
+    },
+    {
+      "char": "█",
+      "color": "#53c5ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cdaff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#68e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#6fe2ff"
+    },
+    {
+      "char": "█",
+      "color": "#76e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#7ae4ff"
+    },
+    {
+      "char": "█",
+      "color": "#7ae4ff"
+    },
+    {
+      "char": "█",
+      "color": "#76e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#6fe2ff"
+    },
+    {
+      "char": "█",
+      "color": "#69e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5dddff"
+    },
+    {
+      "char": "█",
+      "color": "#54c8ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb4ef"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb0ea"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb8f3"
+    },
+    {
+      "char": "▓",
+      "color": "#4499c8"
+    },
+    {
+      "char": "░",
+      "color": "#2e4f60"
+    },
+    {
+      "char": "░",
+      "color": "#2c3f4b"
+    },
+    {
+      "char": "░",
+      "color": "#2a3d47"
+    },
+    {
+      "char": "░",
+      "color": "#242c31"
+    },
+    {
+      "char": "░",
+      "color": "#27343b"
+    },
+    {
+      "char": "░",
+      "color": "#252e35"
+    },
+    {
+      "char": " ",
+      "color": "#232a2e"
+    },
+    {
+      "char": " ",
+      "color": "#1d2123"
+    },
+    {
+      "char": " ",
+      "color": "#101213"
+    },
+    {
+      "char": " ",
+      "color": "#101212"
+    },
+    {
+      "char": " ",
+      "color": "#232324"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#232424"
+    },
+    {
+      "char": " ",
+      "color": "#1f2020"
+    },
+    {
+      "char": " ",
+      "color": "#0f1010"
+    },
+    {
+      "char": " ",
+      "color": "#14181a"
+    },
+    {
+      "char": " ",
+      "color": "#20282d"
+    },
+    {
+      "char": "░",
+      "color": "#253137"
+    },
+    {
+      "char": "░",
+      "color": "#28363e"
+    },
+    {
+      "char": "░",
+      "color": "#283b44"
+    },
+    {
+      "char": "░",
+      "color": "#28363f"
+    },
+    {
+      "char": "▒",
+      "color": "#356580"
+    },
+    {
+      "char": "▓",
+      "color": "#4bafe7"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f4"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb0e8"
+    },
+    {
+      "char": "█",
+      "color": "#51c1ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cdaff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#68e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#7ae4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8decff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cf3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#acfdff"
+    },
+    {
+      "char": "▄",
+      "color": "#b0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aefdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9df3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90ecff"
+    },
+    {
+      "char": "█",
+      "color": "#7ee6ff"
+    },
+    {
+      "char": "█",
+      "color": "#6be2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5be0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ddbff"
+    },
+    {
+      "char": "█",
+      "color": "#53c3ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb2eb"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f7"
+    },
+    {
+      "char": "▓",
+      "color": "#4bafe8"
+    },
+    {
+      "char": "▓",
+      "color": "#4baadf"
+    },
+    {
+      "char": "█",
+      "color": "#58c6ff"
+    },
+    {
+      "char": "▓",
+      "color": "#448db7"
+    },
+    {
+      "char": "░",
+      "color": "#253036"
+    },
+    {
+      "char": "░",
+      "color": "#27343a"
+    },
+    {
+      "char": "░",
+      "color": "#242c31"
+    },
+    {
+      "char": " ",
+      "color": "#1f2325"
+    },
+    {
+      "char": " ",
+      "color": "#101213"
+    },
+    {
+      "char": " ",
+      "color": "#101212"
+    },
+    {
+      "char": " ",
+      "color": "#242324"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f20"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#232424"
+    },
+    {
+      "char": " ",
+      "color": "#1f2123"
+    },
+    {
+      "char": " ",
+      "color": "#0f1314"
+    },
+    {
+      "char": " ",
+      "color": "#141a1c"
+    },
+    {
+      "char": " ",
+      "color": "#212a31"
+    },
+    {
+      "char": "░",
+      "color": "#27363e"
+    },
+    {
+      "char": "░",
+      "color": "#283742"
+    },
+    {
+      "char": "░",
+      "color": "#283941"
+    },
+    {
+      "char": "▒",
+      "color": "#3b7a9d"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f5"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb3ed"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f4"
+    },
+    {
+      "char": "█",
+      "color": "#59d3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5be0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#78e6ff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f0ff"
+    },
+    {
+      "char": "▄",
+      "color": "#aafaff"
+    },
+    {
+      "char": "▄",
+      "color": "#b4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aaffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9efeff"
+    },
+    {
+      "char": "▄",
+      "color": "#9efeff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#acfcff"
+    },
+    {
+      "char": "▄",
+      "color": "#9af1ff"
+    },
+    {
+      "char": "█",
+      "color": "#7fe7ff"
+    },
+    {
+      "char": "█",
+      "color": "#65e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5be0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#59d5ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fb8f4"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb2ec"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f5"
+    },
+    {
+      "char": "█",
+      "color": "#5cdaff"
+    },
+    {
+      "char": "▓",
+      "color": "#4a9ac9"
+    },
+    {
+      "char": "░",
+      "color": "#253137"
+    },
+    {
+      "char": "░",
+      "color": "#28363f"
+    },
+    {
+      "char": "░",
+      "color": "#253035"
+    },
+    {
+      "char": " ",
+      "color": "#202729"
+    },
+    {
+      "char": " ",
+      "color": "#101416"
+    },
+    {
+      "char": " ",
+      "color": "#101213"
+    },
+    {
+      "char": " ",
+      "color": "#242424"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f20"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#232323"
+    },
+    {
+      "char": " ",
+      "color": "#232a2e"
+    },
+    {
+      "char": " ",
+      "color": "#17242a"
+    },
+    {
+      "char": " ",
+      "color": "#1b2930"
+    },
+    {
+      "char": "░",
+      "color": "#283b47"
+    },
+    {
+      "char": "░",
+      "color": "#2a414c"
+    },
+    {
+      "char": "░",
+      "color": "#2d4654"
+    },
+    {
+      "char": "▒",
+      "color": "#428db7"
+    },
+    {
+      "char": "▓",
+      "color": "#4ebbf8"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb2eb"
+    },
+    {
+      "char": "█",
+      "color": "#54c5ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee2ff"
+    },
+    {
+      "char": "█",
+      "color": "#57dfff"
+    },
+    {
+      "char": "█",
+      "color": "#6ae3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8becff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#abffff"
+    },
+    {
+      "char": "▄",
+      "color": "#99faff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8bf3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#88f1ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#88f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8bf3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#98f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bdffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aaf9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91efff"
+    },
+    {
+      "char": "█",
+      "color": "#71e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#57dfff"
+    },
+    {
+      "char": "█",
+      "color": "#5de2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#54c6ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb0e8"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb2ec"
+    },
+    {
+      "char": "▒",
+      "color": "#418bb4"
+    },
+    {
+      "char": "░",
+      "color": "#2d4654"
+    },
+    {
+      "char": "░",
+      "color": "#2c414c"
+    },
+    {
+      "char": "░",
+      "color": "#2a3f4b"
+    },
+    {
+      "char": "░",
+      "color": "#25353e"
+    },
+    {
+      "char": " ",
+      "color": "#17252a"
+    },
+    {
+      "char": " ",
+      "color": "#172328"
+    },
+    {
+      "char": " ",
+      "color": "#25292a"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#242425"
+    },
+    {
+      "char": " ",
+      "color": "#23282c"
+    },
+    {
+      "char": " ",
+      "color": "#121b1f"
+    },
+    {
+      "char": " ",
+      "color": "#182429"
+    },
+    {
+      "char": "░",
+      "color": "#243139"
+    },
+    {
+      "char": "░",
+      "color": "#2c424e"
+    },
+    {
+      "char": "▓",
+      "color": "#4498c6"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f7"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb6f0"
+    },
+    {
+      "char": "█",
+      "color": "#59d2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#58dfff"
+    },
+    {
+      "char": "█",
+      "color": "#61e0ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ef5ff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#99faff"
+    },
+    {
+      "char": "▄",
+      "color": "#8cf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8cf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#83f0ff"
+    },
+    {
+      "char": "▀",
+      "color": "#d3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d1ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#83f0ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8cf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8cf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#b0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aaf9ff"
+    },
+    {
+      "char": "█",
+      "color": "#66e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#58dfff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#59d3ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb7f1"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f8"
+    },
+    {
+      "char": "▓",
+      "color": "#4498c6"
+    },
+    {
+      "char": "░",
+      "color": "#2a414e"
+    },
+    {
+      "char": "░",
+      "color": "#28363e"
+    },
+    {
+      "char": "░",
+      "color": "#233137"
+    },
+    {
+      "char": " ",
+      "color": "#131c20"
+    },
+    {
+      "char": " ",
+      "color": "#131b1f"
+    },
+    {
+      "char": " ",
+      "color": "#242729"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f1f"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1f21"
+    },
+    {
+      "char": " ",
+      "color": "#242729"
+    },
+    {
+      "char": " ",
+      "color": "#202728"
+    },
+    {
+      "char": " ",
+      "color": "#10161a"
+    },
+    {
+      "char": " ",
+      "color": "#13171a"
+    },
+    {
+      "char": "░",
+      "color": "#253641"
+    },
+    {
+      "char": "▓",
+      "color": "#449aca"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f4"
+    },
+    {
+      "char": "▓",
+      "color": "#50bcf8"
+    },
+    {
+      "char": "█",
+      "color": "#5dddff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#58dfff"
+    },
+    {
+      "char": "▄",
+      "color": "#88edff"
+    },
+    {
+      "char": "▀",
+      "color": "#dbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#85f1ff"
+    },
+    {
+      "char": "▀",
+      "color": "#dfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dbffff"
+    },
+    {
+      "char": "▄",
+      "color": "#87f1ff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#edffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5dddff"
+    },
+    {
+      "char": "▓",
+      "color": "#50bcf8"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f5"
+    },
+    {
+      "char": "▓",
+      "color": "#4498c8"
+    },
+    {
+      "char": "░",
+      "color": "#283943"
+    },
+    {
+      "char": " ",
+      "color": "#20272a"
+    },
+    {
+      "char": " ",
+      "color": "#12171a"
+    },
+    {
+      "char": " ",
+      "color": "#101316"
+    },
+    {
+      "char": " ",
+      "color": "#242728"
+    },
+    {
+      "char": " ",
+      "color": "#1f2020"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#212123"
+    },
+    {
+      "char": " ",
+      "color": "#24282a"
+    },
+    {
+      "char": " ",
+      "color": "#212a2e"
+    },
+    {
+      "char": " ",
+      "color": "#0e1013"
+    },
+    {
+      "char": " ",
+      "color": "#18252d"
+    },
+    {
+      "char": "▓",
+      "color": "#449ccd"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f5"
+    },
+    {
+      "char": "█",
+      "color": "#53c4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#57dfff"
+    },
+    {
+      "char": "█",
+      "color": "#6be3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ccffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#abffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2fdff"
+    },
+    {
+      "char": "▀",
+      "color": "#edffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ebffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▄",
+      "color": "#abffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "█",
+      "color": "#6fe6ff"
+    },
+    {
+      "char": "█",
+      "color": "#57deff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#53c1ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f5"
+    },
+    {
+      "char": "▓",
+      "color": "#449ac9"
+    },
+    {
+      "char": "░",
+      "color": "#23323a"
+    },
+    {
+      "char": " ",
+      "color": "#121416"
+    },
+    {
+      "char": " ",
+      "color": "#12181b"
+    },
+    {
+      "char": " ",
+      "color": "#25292a"
+    },
+    {
+      "char": " ",
+      "color": "#202323"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f2325"
+    },
+    {
+      "char": "░",
+      "color": "#272c30"
+    },
+    {
+      "char": " ",
+      "color": "#202729"
+    },
+    {
+      "char": " ",
+      "color": "#141d24"
+    },
+    {
+      "char": "▓",
+      "color": "#3f92c1"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbcf8"
+    },
+    {
+      "char": "█",
+      "color": "#55c9ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#57deff"
+    },
+    {
+      "char": "▄",
+      "color": "#8defff"
+    },
+    {
+      "char": "▀",
+      "color": "#f0ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a1fdff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#abffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#abffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#afffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#deffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f5ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f1ff"
+    },
+    {
+      "char": "█",
+      "color": "#57deff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#55c8ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f7"
+    },
+    {
+      "char": "▓",
+      "color": "#4395c4"
+    },
+    {
+      "char": " ",
+      "color": "#131c20"
+    },
+    {
+      "char": " ",
+      "color": "#101316"
+    },
+    {
+      "char": "░",
+      "color": "#272c30"
+    },
+    {
+      "char": " ",
+      "color": "#202324"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#212529"
+    },
+    {
+      "char": "░",
+      "color": "#252a2e"
+    },
+    {
+      "char": " ",
+      "color": "#212a31"
+    },
+    {
+      "char": "▓",
+      "color": "#3f8fbc"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbcf9"
+    },
+    {
+      "char": "█",
+      "color": "#57cdff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cdfff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#98faff"
+    },
+    {
+      "char": "▄",
+      "color": "#98faff"
+    },
+    {
+      "char": "▄",
+      "color": "#99faff"
+    },
+    {
+      "char": "▄",
+      "color": "#98f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#abffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f1ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▄",
+      "color": "#afffff"
+    },
+    {
+      "char": "▄",
+      "color": "#99faff"
+    },
+    {
+      "char": "▄",
+      "color": "#98f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#99faff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "█",
+      "color": "#5ddfff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#57caff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbdfa"
+    },
+    {
+      "char": "▒",
+      "color": "#3984af"
+    },
+    {
+      "char": " ",
+      "color": "#13171a"
+    },
+    {
+      "char": "░",
+      "color": "#252a2e"
+    },
+    {
+      "char": " ",
+      "color": "#202729"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000051"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#212829"
+    },
+    {
+      "char": " ",
+      "color": "#242a2c"
+    },
+    {
+      "char": "▒",
+      "color": "#3e88b3"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbdfc"
+    },
+    {
+      "char": "█",
+      "color": "#59d0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#59dfff"
+    },
+    {
+      "char": "█",
+      "color": "#6ae3ff"
+    },
+    {
+      "char": "▀",
+      "color": "#deffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aaffff"
+    },
+    {
+      "char": "▄",
+      "color": "#98f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9dfaff"
+    },
+    {
+      "char": "▄",
+      "color": "#99f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#afffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bdffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bdffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9af9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfaff"
+    },
+    {
+      "char": "▄",
+      "color": "#99f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▀",
+      "color": "#d6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ebffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dfffff"
+    },
+    {
+      "char": "█",
+      "color": "#6ae4ff"
+    },
+    {
+      "char": "█",
+      "color": "#59e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#58ceff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbdfa"
+    },
+    {
+      "char": "▒",
+      "color": "#3a7ea3"
+    },
+    {
+      "char": " ",
+      "color": "#232528"
+    },
+    {
+      "char": " ",
+      "color": "#23292d"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#1f1b1b"
+    },
+    {
+      "char": "▒",
+      "color": "#3b789a"
+    },
+    {
+      "char": "▓",
+      "color": "#4ebffe"
+    },
+    {
+      "char": "█",
+      "color": "#59d1ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#57deff"
+    },
+    {
+      "char": "█",
+      "color": "#78e8ff"
+    },
+    {
+      "char": "▀",
+      "color": "#fcffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfaff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffcff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfcff"
+    },
+    {
+      "char": "▄",
+      "color": "#abffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#afffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfcff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffcff"
+    },
+    {
+      "char": "▄",
+      "color": "#99faff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#deffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fcffff"
+    },
+    {
+      "char": "█",
+      "color": "#77e8ff"
+    },
+    {
+      "char": "█",
+      "color": "#57deff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#58d0ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbdfd"
+    },
+    {
+      "char": "▒",
+      "color": "#3a7291"
+    },
+    {
+      "char": " ",
+      "color": "#1d1a18"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▓",
+      "color": "#51a5f8"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▒",
+      "color": "#3d80a7"
+    },
+    {
+      "char": "▓",
+      "color": "#50bdf9"
+    },
+    {
+      "char": "█",
+      "color": "#59d2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#54deff"
+    },
+    {
+      "char": "▄",
+      "color": "#87efff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9dfaff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#9dfcff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ddffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#84edff"
+    },
+    {
+      "char": "█",
+      "color": "#55deff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#59d1ff"
+    },
+    {
+      "char": "▓",
+      "color": "#50bbf7"
+    },
+    {
+      "char": "▒",
+      "color": "#377595"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▒",
+      "color": "#4284c6"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▒",
+      "color": "#6e6edd"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▓",
+      "color": "#48b3f0"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb6f1"
+    },
+    {
+      "char": "█",
+      "color": "#58d1ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#64e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#53deff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f1ff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#eaffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2fdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a1fdff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a1fdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▀",
+      "color": "#dbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ebffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#8bf0ff"
+    },
+    {
+      "char": "█",
+      "color": "#54deff"
+    },
+    {
+      "char": "█",
+      "color": "#64e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#58d0ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb4f0"
+    },
+    {
+      "char": "▓",
+      "color": "#4ab6f3"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "█",
+      "color": "#a5a5ff"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": "▄",
+      "color": "#00ffff"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▓",
+      "color": "#4ebcec"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb6f0"
+    },
+    {
+      "char": "█",
+      "color": "#58d1ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#64e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#54deff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f3ff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#efffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dbffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#feffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2fdff"
+    },
+    {
+      "char": "▀",
+      "color": "#d1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#8cf0ff"
+    },
+    {
+      "char": "█",
+      "color": "#54deff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#58d1ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb4f0"
+    },
+    {
+      "char": "▓",
+      "color": "#58b0f3"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▄",
+      "color": "#00ffff"
+    }
+  ],
+  [
+    {
+      "char": "▒",
+      "color": "#00a5a5"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▓",
+      "color": "#4ab3ed"
+    },
+    {
+      "char": "█",
+      "color": "#58d0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#54ddff"
+    },
+    {
+      "char": "▄",
+      "color": "#8df1ff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ecffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d5ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a1fdff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffcff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#feffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fcffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#edffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f9ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#87edff"
+    },
+    {
+      "char": "█",
+      "color": "#54deff"
+    },
+    {
+      "char": "█",
+      "color": "#64e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#57ceff"
+    },
+    {
+      "char": "▓",
+      "color": "#4ab2ec"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▓",
+      "color": "#a5a5a5"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▓",
+      "color": "#48aeeb"
+    },
+    {
+      "char": "█",
+      "color": "#54c8ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#55deff"
+    },
+    {
+      "char": "▄",
+      "color": "#82ecff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▌",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#eaffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ebffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fcffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▌",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#7beaff"
+    },
+    {
+      "char": "█",
+      "color": "#57dfff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#54c6ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4aafe8"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": "▓",
+      "color": "#4aace7"
+    },
+    {
+      "char": "▓",
+      "color": "#50bcf8"
+    },
+    {
+      "char": "█",
+      "color": "#5edeff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5be0ff"
+    },
+    {
+      "char": "█",
+      "color": "#6fe6ff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▌",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ccffff"
+    },
+    {
+      "char": "▀",
+      "color": "#daffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ecffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ecffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ddffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ccffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f9ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▌",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "█",
+      "color": "#6ae4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5be0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#5edeff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbbf8"
+    },
+    {
+      "char": "▓",
+      "color": "#43a9dd"
+    }
+  ],
+  [
+    {
+      "char": "▓",
+      "color": "#4bb3ef"
+    },
+    {
+      "char": "█",
+      "color": "#5cd9ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "▀",
+      "color": "#fdffff"
+    },
+    {
+      "char": "▌",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ebffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▄",
+      "color": "#a1fdff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffcff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#feffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fcffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3fdff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ecffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f7ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "█",
+      "color": "#5cdfff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cd9ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb4ed"
+    }
+  ],
+  [
+    {
+      "char": "▓",
+      "color": "#48aee4"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9dfdff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▄",
+      "color": "#a6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#feffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▀",
+      "color": "#d0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f8ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#abffff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "▓",
+      "color": "#48afe7"
+    }
+  ],
+  [
+    {
+      "char": "░",
+      "color": "#1b3e51"
+    },
+    {
+      "char": "▓",
+      "color": "#4aace6"
+    },
+    {
+      "char": "█",
+      "color": "#62e7ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#51ddff"
+    },
+    {
+      "char": "█",
+      "color": "#6ee8ff"
+    },
+    {
+      "char": "▀",
+      "color": "#ecffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dfffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#b3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#caffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▀",
+      "color": "#d7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#eaffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fdffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#feffff"
+    },
+    {
+      "char": "▄",
+      "color": "#7aedff"
+    },
+    {
+      "char": "█",
+      "color": "#50dbff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e6ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4aaee7"
+    },
+    {
+      "char": "░",
+      "color": "#1b3f54"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#0e1f2a"
+    },
+    {
+      "char": "▓",
+      "color": "#439fd3"
+    },
+    {
+      "char": "█",
+      "color": "#5edfff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "█",
+      "color": "#57ddff"
+    },
+    {
+      "char": "▄",
+      "color": "#acffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ddffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfcff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9efdff"
+    },
+    {
+      "char": "▄",
+      "color": "#9dfcff"
+    },
+    {
+      "char": "▄",
+      "color": "#aaffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dbffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#58deff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "▓",
+      "color": "#46a6dd"
+    },
+    {
+      "char": " ",
+      "color": "#102836"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": "▄",
+      "color": "#00ffff"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#070b0f"
+    },
+    {
+      "char": "▒",
+      "color": "#3b8fbd"
+    },
+    {
+      "char": "█",
+      "color": "#58d1ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#53dbff"
+    },
+    {
+      "char": "▄",
+      "color": "#76ebff"
+    },
+    {
+      "char": "▀",
+      "color": "#e6ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9afaff"
+    },
+    {
+      "char": "▄",
+      "color": "#9efcff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfaff"
+    },
+    {
+      "char": "▄",
+      "color": "#acffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfaff"
+    },
+    {
+      "char": "▄",
+      "color": "#9efcff"
+    },
+    {
+      "char": "▄",
+      "color": "#99f9ff"
+    },
+    {
+      "char": "▀",
+      "color": "#bdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#daffff"
+    },
+    {
+      "char": "▀",
+      "color": "#dbffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#89f5ff"
+    },
+    {
+      "char": "█",
+      "color": "#51dbff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bd7ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4299ca"
+    },
+    {
+      "char": " ",
+      "color": "#0a1a21"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▓",
+      "color": "#a5a5a5"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#0a0a16"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▒",
+      "color": "#306a8c"
+    },
+    {
+      "char": "█",
+      "color": "#51c1fe"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "█",
+      "color": "#58deff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffeff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#98f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9afaff"
+    },
+    {
+      "char": "▄",
+      "color": "#99faff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bdffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bdffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bdffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfaff"
+    },
+    {
+      "char": "▄",
+      "color": "#9afaff"
+    },
+    {
+      "char": "▄",
+      "color": "#99f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffcff"
+    },
+    {
+      "char": "▀",
+      "color": "#d2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d2ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e7ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#57ddff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#55caff"
+    },
+    {
+      "char": "▒",
+      "color": "#377ea6"
+    },
+    {
+      "char": " ",
+      "color": "#030707"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▄",
+      "color": "#00ffff"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "▄",
+      "color": "#00ffff"
+    },
+    {
+      "char": " ",
+      "color": "#00001b"
+    },
+    {
+      "char": " ",
+      "color": "#121213"
+    },
+    {
+      "char": "░",
+      "color": "#284b60"
+    },
+    {
+      "char": "▓",
+      "color": "#48aae2"
+    },
+    {
+      "char": "█",
+      "color": "#5bd6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#54ddff"
+    },
+    {
+      "char": "█",
+      "color": "#69e6ff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#99faff"
+    },
+    {
+      "char": "▄",
+      "color": "#98faff"
+    },
+    {
+      "char": "▄",
+      "color": "#99f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#afffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f1ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#9afaff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#98faff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#bbffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#faffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#7bedff"
+    },
+    {
+      "char": "█",
+      "color": "#53ddff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee2ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ddaff"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f7"
+    },
+    {
+      "char": "▒",
+      "color": "#2e5e7a"
+    },
+    {
+      "char": " ",
+      "color": "#131717"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "█",
+      "color": "#a5a5ff"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#212c34"
+    },
+    {
+      "char": " ",
+      "color": "#1c2023"
+    },
+    {
+      "char": "░",
+      "color": "#1f3441"
+    },
+    {
+      "char": "▒",
+      "color": "#3d8cb9"
+    },
+    {
+      "char": "█",
+      "color": "#54c8ff"
+    },
+    {
+      "char": "█",
+      "color": "#5eddff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#54ddff"
+    },
+    {
+      "char": "▄",
+      "color": "#7bedff"
+    },
+    {
+      "char": "▀",
+      "color": "#d0ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ccffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5feff"
+    },
+    {
+      "char": "▄",
+      "color": "#b3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aaffff"
+    },
+    {
+      "char": "▀",
+      "color": "#f1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#efffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aaffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#98f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ceffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ccffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#d9ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f7ff"
+    },
+    {
+      "char": "█",
+      "color": "#58deff"
+    },
+    {
+      "char": "█",
+      "color": "#59deff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#57d0ff"
+    },
+    {
+      "char": "▓",
+      "color": "#439ed2"
+    },
+    {
+      "char": "░",
+      "color": "#1f3e4f"
+    },
+    {
+      "char": " ",
+      "color": "#1a1f21"
+    },
+    {
+      "char": " ",
+      "color": "#20282e"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#232d32"
+    },
+    {
+      "char": "░",
+      "color": "#28363e"
+    },
+    {
+      "char": " ",
+      "color": "#1b2428"
+    },
+    {
+      "char": " ",
+      "color": "#0d141a"
+    },
+    {
+      "char": "▒",
+      "color": "#2e6989"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f4"
+    },
+    {
+      "char": "█",
+      "color": "#58d1ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdeff"
+    },
+    {
+      "char": "█",
+      "color": "#58ddff"
+    },
+    {
+      "char": "▄",
+      "color": "#85f3ff"
+    },
+    {
+      "char": "▀",
+      "color": "#d2ffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ccffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c4ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▄",
+      "color": "#acffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3feff"
+    },
+    {
+      "char": "▀",
+      "color": "#edffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ebffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5feff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5feff"
+    },
+    {
+      "char": "▄",
+      "color": "#99f9ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2fdff"
+    },
+    {
+      "char": "▀",
+      "color": "#c6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#fcffff"
+    },
+    {
+      "char": "▐",
+      "color": "#ffffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#99fcff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#57deff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bd6ff"
+    },
+    {
+      "char": "▓",
+      "color": "#50bffe"
+    },
+    {
+      "char": "▒",
+      "color": "#3b88b3"
+    },
+    {
+      "char": " ",
+      "color": "#13232c"
+    },
+    {
+      "char": " ",
+      "color": "#0b0b0d"
+    },
+    {
+      "char": "░",
+      "color": "#27343b"
+    },
+    {
+      "char": "░",
+      "color": "#242e34"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#005151"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#212c30"
+    },
+    {
+      "char": "░",
+      "color": "#28343a"
+    },
+    {
+      "char": "░",
+      "color": "#25343d"
+    },
+    {
+      "char": " ",
+      "color": "#0f161a"
+    },
+    {
+      "char": " ",
+      "color": "#0d1012"
+    },
+    {
+      "char": "░",
+      "color": "#29536a"
+    },
+    {
+      "char": "▓",
+      "color": "#46a2d5"
+    },
+    {
+      "char": "█",
+      "color": "#51c3ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cd7ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#58deff"
+    },
+    {
+      "char": "█",
+      "color": "#59deff"
+    },
+    {
+      "char": "▄",
+      "color": "#84f3ff"
+    },
+    {
+      "char": "▀",
+      "color": "#cdffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#87f1ff"
+    },
+    {
+      "char": "▀",
+      "color": "#e0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#deffff"
+    },
+    {
+      "char": "▄",
+      "color": "#88f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8df5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2feff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c5ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#e7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#ddffff"
+    },
+    {
+      "char": "▄",
+      "color": "#96f9ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#55ddff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#62e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#5eddff"
+    },
+    {
+      "char": "█",
+      "color": "#54c8ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4aaee7"
+    },
+    {
+      "char": "▒",
+      "color": "#326b8b"
+    },
+    {
+      "char": " ",
+      "color": "#182329"
+    },
+    {
+      "char": " ",
+      "color": "#0e1214"
+    },
+    {
+      "char": " ",
+      "color": "#141d23"
+    },
+    {
+      "char": "░",
+      "color": "#28343a"
+    },
+    {
+      "char": " ",
+      "color": "#232a31"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#005151"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#21292d"
+    },
+    {
+      "char": "░",
+      "color": "#273239"
+    },
+    {
+      "char": "░",
+      "color": "#243137"
+    },
+    {
+      "char": " ",
+      "color": "#121b20"
+    },
+    {
+      "char": " ",
+      "color": "#162029"
+    },
+    {
+      "char": " ",
+      "color": "#1a242a"
+    },
+    {
+      "char": "░",
+      "color": "#233d4b"
+    },
+    {
+      "char": "▒",
+      "color": "#3b85ae"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb4ef"
+    },
+    {
+      "char": "█",
+      "color": "#54c6ff"
+    },
+    {
+      "char": "█",
+      "color": "#5dddff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#58deff"
+    },
+    {
+      "char": "█",
+      "color": "#58deff"
+    },
+    {
+      "char": "▄",
+      "color": "#7fefff"
+    },
+    {
+      "char": "▄",
+      "color": "#a2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c3ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#aeffff"
+    },
+    {
+      "char": "▄",
+      "color": "#94f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8bf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8cf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#85f1ff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#85f1ff"
+    },
+    {
+      "char": "▄",
+      "color": "#90f5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8ff5ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8cf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8bf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#91f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#bfffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c1ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#8bf5ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#57deff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#57cdff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fb9f7"
+    },
+    {
+      "char": "▓",
+      "color": "#4298c6"
+    },
+    {
+      "char": "░",
+      "color": "#284c61"
+    },
+    {
+      "char": " ",
+      "color": "#1b272c"
+    },
+    {
+      "char": "░",
+      "color": "#1f2e37"
+    },
+    {
+      "char": " ",
+      "color": "#131d23"
+    },
+    {
+      "char": " ",
+      "color": "#131a1d"
+    },
+    {
+      "char": "░",
+      "color": "#283239"
+    },
+    {
+      "char": " ",
+      "color": "#232a2e"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#005151"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#21292d"
+    },
+    {
+      "char": "░",
+      "color": "#273136"
+    },
+    {
+      "char": "░",
+      "color": "#243036"
+    },
+    {
+      "char": " ",
+      "color": "#12181c"
+    },
+    {
+      "char": " ",
+      "color": "#172328"
+    },
+    {
+      "char": "░",
+      "color": "#253b47"
+    },
+    {
+      "char": "░",
+      "color": "#233641"
+    },
+    {
+      "char": "░",
+      "color": "#1d2e37"
+    },
+    {
+      "char": "▒",
+      "color": "#2e617e"
+    },
+    {
+      "char": "▓",
+      "color": "#46a2d6"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb9f5"
+    },
+    {
+      "char": "█",
+      "color": "#55c9ff"
+    },
+    {
+      "char": "█",
+      "color": "#5edfff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#59deff"
+    },
+    {
+      "char": "█",
+      "color": "#59dfff"
+    },
+    {
+      "char": "█",
+      "color": "#68e6ff"
+    },
+    {
+      "char": "▄",
+      "color": "#85f1ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a5ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b7ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#bcffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#95f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#8bf4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#88f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#89f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#83f0ff"
+    },
+    {
+      "char": "▄",
+      "color": "#83f0ff"
+    },
+    {
+      "char": "▄",
+      "color": "#89f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#88f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#89f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f7ff"
+    },
+    {
+      "char": "▄",
+      "color": "#a3ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▀",
+      "color": "#c0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b8ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#8cf5ff"
+    },
+    {
+      "char": "█",
+      "color": "#6de7ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "█",
+      "color": "#58deff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#58d0ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbcf9"
+    },
+    {
+      "char": "▓",
+      "color": "#48ace3"
+    },
+    {
+      "char": "▒",
+      "color": "#35769a"
+    },
+    {
+      "char": "░",
+      "color": "#203541"
+    },
+    {
+      "char": "░",
+      "color": "#202e37"
+    },
+    {
+      "char": "░",
+      "color": "#283f4c"
+    },
+    {
+      "char": "░",
+      "color": "#24353f"
+    },
+    {
+      "char": " ",
+      "color": "#131b1f"
+    },
+    {
+      "char": " ",
+      "color": "#13181d"
+    },
+    {
+      "char": "░",
+      "color": "#273137"
+    },
+    {
+      "char": " ",
+      "color": "#202a2d"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#005151"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#21282c"
+    },
+    {
+      "char": "░",
+      "color": "#273035"
+    },
+    {
+      "char": "░",
+      "color": "#242e36"
+    },
+    {
+      "char": " ",
+      "color": "#12181c"
+    },
+    {
+      "char": " ",
+      "color": "#172127"
+    },
+    {
+      "char": "░",
+      "color": "#253943"
+    },
+    {
+      "char": "░",
+      "color": "#2c4654"
+    },
+    {
+      "char": "░",
+      "color": "#294351"
+    },
+    {
+      "char": "░",
+      "color": "#1f313a"
+    },
+    {
+      "char": "░",
+      "color": "#244151"
+    },
+    {
+      "char": "▒",
+      "color": "#3a82a9"
+    },
+    {
+      "char": "▓",
+      "color": "#4aaee7"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb8f4"
+    },
+    {
+      "char": "█",
+      "color": "#55caff"
+    },
+    {
+      "char": "█",
+      "color": "#5edfff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#59dfff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#6fe8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#87f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9efdff"
+    },
+    {
+      "char": "▄",
+      "color": "#b0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b6ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a9ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a1fdff"
+    },
+    {
+      "char": "▄",
+      "color": "#9efcff"
+    },
+    {
+      "char": "▄",
+      "color": "#9dfcff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffdff"
+    },
+    {
+      "char": "▄",
+      "color": "#a7ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b0ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b4ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#b2ffff"
+    },
+    {
+      "char": "▄",
+      "color": "#a1feff"
+    },
+    {
+      "char": "▄",
+      "color": "#8bf4ff"
+    },
+    {
+      "char": "█",
+      "color": "#72eaff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#59dfff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#59d0ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fbcf9"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb2ec"
+    },
+    {
+      "char": "▓",
+      "color": "#4195c3"
+    },
+    {
+      "char": "░",
+      "color": "#2a556b"
+    },
+    {
+      "char": "░",
+      "color": "#1c2e37"
+    },
+    {
+      "char": "░",
+      "color": "#253d4a"
+    },
+    {
+      "char": "░",
+      "color": "#2c4654"
+    },
+    {
+      "char": "░",
+      "color": "#293f4b"
+    },
+    {
+      "char": "░",
+      "color": "#23323a"
+    },
+    {
+      "char": " ",
+      "color": "#131a1d"
+    },
+    {
+      "char": " ",
+      "color": "#131a1c"
+    },
+    {
+      "char": "░",
+      "color": "#253035"
+    },
+    {
+      "char": " ",
+      "color": "#20292d"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#005151"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#212829"
+    },
+    {
+      "char": "░",
+      "color": "#252e32"
+    },
+    {
+      "char": "░",
+      "color": "#232d34"
+    },
+    {
+      "char": " ",
+      "color": "#10171b"
+    },
+    {
+      "char": " ",
+      "color": "#172025"
+    },
+    {
+      "char": "░",
+      "color": "#253742"
+    },
+    {
+      "char": "░",
+      "color": "#2a424f"
+    },
+    {
+      "char": "░",
+      "color": "#2d4857"
+    },
+    {
+      "char": "░",
+      "color": "#2d4b5d"
+    },
+    {
+      "char": "░",
+      "color": "#253f4e"
+    },
+    {
+      "char": "░",
+      "color": "#1f343e"
+    },
+    {
+      "char": "░",
+      "color": "#2a5972"
+    },
+    {
+      "char": "▓",
+      "color": "#4298c8"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb2ec"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb7f3"
+    },
+    {
+      "char": "█",
+      "color": "#54c8ff"
+    },
+    {
+      "char": "█",
+      "color": "#5dddff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#66e4ff"
+    },
+    {
+      "char": "▄",
+      "color": "#76ebff"
+    },
+    {
+      "char": "▄",
+      "color": "#85f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#9afcff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffeff"
+    },
+    {
+      "char": "▄",
+      "color": "#9ffeff"
+    },
+    {
+      "char": "▄",
+      "color": "#9cfcff"
+    },
+    {
+      "char": "▄",
+      "color": "#92f8ff"
+    },
+    {
+      "char": "▄",
+      "color": "#87f3ff"
+    },
+    {
+      "char": "▄",
+      "color": "#77ecff"
+    },
+    {
+      "char": "█",
+      "color": "#68e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ee0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "█",
+      "color": "#5cdfff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#57cdff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fb9f7"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb4ef"
+    },
+    {
+      "char": "▓",
+      "color": "#46a2d5"
+    },
+    {
+      "char": "▒",
+      "color": "#316885"
+    },
+    {
+      "char": "░",
+      "color": "#213d4b"
+    },
+    {
+      "char": "░",
+      "color": "#243f4e"
+    },
+    {
+      "char": "░",
+      "color": "#2a4859"
+    },
+    {
+      "char": "░",
+      "color": "#2d4858"
+    },
+    {
+      "char": "░",
+      "color": "#2a424f"
+    },
+    {
+      "char": "░",
+      "color": "#283d48"
+    },
+    {
+      "char": "░",
+      "color": "#23313a"
+    },
+    {
+      "char": " ",
+      "color": "#131a1d"
+    },
+    {
+      "char": " ",
+      "color": "#13181b"
+    },
+    {
+      "char": "░",
+      "color": "#252e32"
+    },
+    {
+      "char": " ",
+      "color": "#20272a"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": "░",
+      "color": "#005151"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#212528"
+    },
+    {
+      "char": "░",
+      "color": "#252d31"
+    },
+    {
+      "char": "░",
+      "color": "#232c31"
+    },
+    {
+      "char": " ",
+      "color": "#10171a"
+    },
+    {
+      "char": " ",
+      "color": "#171f23"
+    },
+    {
+      "char": "░",
+      "color": "#24353e"
+    },
+    {
+      "char": "░",
+      "color": "#2a3f4b"
+    },
+    {
+      "char": "░",
+      "color": "#2a4351"
+    },
+    {
+      "char": "░",
+      "color": "#2c4a58"
+    },
+    {
+      "char": "░",
+      "color": "#2e4f61"
+    },
+    {
+      "char": "░",
+      "color": "#2c4c5e"
+    },
+    {
+      "char": "░",
+      "color": "#233e4c"
+    },
+    {
+      "char": "░",
+      "color": "#234151"
+    },
+    {
+      "char": "▒",
+      "color": "#306885"
+    },
+    {
+      "char": "▓",
+      "color": "#449ed1"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb3ed"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb3ef"
+    },
+    {
+      "char": "█",
+      "color": "#51c0fe"
+    },
+    {
+      "char": "█",
+      "color": "#5bd5ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cdfff"
+    },
+    {
+      "char": "█",
+      "color": "#59dfff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "█",
+      "color": "#5ce0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#5bdfff"
+    },
+    {
+      "char": "█",
+      "color": "#59dfff"
+    },
+    {
+      "char": "█",
+      "color": "#5cdfff"
+    },
+    {
+      "char": "█",
+      "color": "#5de0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cd9ff"
+    },
+    {
+      "char": "█",
+      "color": "#54c5ff"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb6f0"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb3ed"
+    },
+    {
+      "char": "▓",
+      "color": "#47a7dd"
+    },
+    {
+      "char": "▒",
+      "color": "#36779c"
+    },
+    {
+      "char": "░",
+      "color": "#234253"
+    },
+    {
+      "char": "░",
+      "color": "#203542"
+    },
+    {
+      "char": "░",
+      "color": "#2c4f62"
+    },
+    {
+      "char": "░",
+      "color": "#31586d"
+    },
+    {
+      "char": "░",
+      "color": "#2c4858"
+    },
+    {
+      "char": "░",
+      "color": "#2c4451"
+    },
+    {
+      "char": "░",
+      "color": "#293f4b"
+    },
+    {
+      "char": "░",
+      "color": "#283a44"
+    },
+    {
+      "char": "░",
+      "color": "#232e36"
+    },
+    {
+      "char": " ",
+      "color": "#12181b"
+    },
+    {
+      "char": " ",
+      "color": "#12161a"
+    },
+    {
+      "char": "░",
+      "color": "#252d30"
+    },
+    {
+      "char": " ",
+      "color": "#202729"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000051"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ],
+  [
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#212325"
+    },
+    {
+      "char": " ",
+      "color": "#242a2e"
+    },
+    {
+      "char": " ",
+      "color": "#232a30"
+    },
+    {
+      "char": " ",
+      "color": "#12181b"
+    },
+    {
+      "char": " ",
+      "color": "#172025"
+    },
+    {
+      "char": "░",
+      "color": "#24363e"
+    },
+    {
+      "char": "░",
+      "color": "#293f4b"
+    },
+    {
+      "char": "░",
+      "color": "#2a4351"
+    },
+    {
+      "char": "░",
+      "color": "#2c4858"
+    },
+    {
+      "char": "░",
+      "color": "#2d4c5d"
+    },
+    {
+      "char": "░",
+      "color": "#305165"
+    },
+    {
+      "char": "░",
+      "color": "#31596f"
+    },
+    {
+      "char": "░",
+      "color": "#2e586e"
+    },
+    {
+      "char": "░",
+      "color": "#213d4b"
+    },
+    {
+      "char": "░",
+      "color": "#234151"
+    },
+    {
+      "char": "▒",
+      "color": "#346f91"
+    },
+    {
+      "char": "▓",
+      "color": "#46a1d5"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb3ed"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb2ec"
+    },
+    {
+      "char": "▓",
+      "color": "#4eb7f3"
+    },
+    {
+      "char": "█",
+      "color": "#54c8ff"
+    },
+    {
+      "char": "█",
+      "color": "#5cd9ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e0ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e2ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e3ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#61e6ff"
+    },
+    {
+      "char": "█",
+      "color": "#60e4ff"
+    },
+    {
+      "char": "█",
+      "color": "#5ddbff"
+    },
+    {
+      "char": "█",
+      "color": "#57ccff"
+    },
+    {
+      "char": "▓",
+      "color": "#4fb9f5"
+    },
+    {
+      "char": "▓",
+      "color": "#4bb2ec"
+    },
+    {
+      "char": "▓",
+      "color": "#4cb3ed"
+    },
+    {
+      "char": "▓",
+      "color": "#48a9de"
+    },
+    {
+      "char": "▒",
+      "color": "#397ca3"
+    },
+    {
+      "char": "░",
+      "color": "#254a5d"
+    },
+    {
+      "char": "░",
+      "color": "#203946"
+    },
+    {
+      "char": "░",
+      "color": "#28485b"
+    },
+    {
+      "char": "░",
+      "color": "#305368"
+    },
+    {
+      "char": "░",
+      "color": "#325b6f"
+    },
+    {
+      "char": "░",
+      "color": "#30556a"
+    },
+    {
+      "char": "░",
+      "color": "#2c4857"
+    },
+    {
+      "char": "░",
+      "color": "#2c4351"
+    },
+    {
+      "char": "░",
+      "color": "#293f4b"
+    },
+    {
+      "char": "░",
+      "color": "#273a44"
+    },
+    {
+      "char": "░",
+      "color": "#232e37"
+    },
+    {
+      "char": " ",
+      "color": "#131a1d"
+    },
+    {
+      "char": " ",
+      "color": "#13181c"
+    },
+    {
+      "char": "░",
+      "color": "#242a30"
+    },
+    {
+      "char": " ",
+      "color": "#202327"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    },
+    {
+      "char": " ",
+      "color": "#000000"
+    }
+  ]
+]

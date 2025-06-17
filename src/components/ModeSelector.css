@@ -1,0 +1,248 @@
+.mode-selector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  max-width: 700px;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.8);
+  position: relative;
+}
+
+.ascii-header {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  text-align: center;
+}
+
+.ascii-line {
+  color: var(--terminal-magenta);
+  font-family: 'Courier New', monospace;
+  font-size: 1.3rem;
+  line-height: 1.2;
+  margin: 0;
+  letter-spacing: 0.5px;
+  text-align: center;
+  width: 100%;
+}
+
+.ascii-line a {
+  color: var(--terminal-cyan);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.ascii-line a:hover {
+  color: #00ffff;
+  text-shadow: 0 0 8px var(--terminal-cyan);
+}
+
+.mode-selector h2 {
+  color: var(--terminal-magenta);
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  text-align: center;
+  width: 100%;
+}
+
+.description {
+  color: var(--terminal-magenta);
+  font-size: 1.3rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+  letter-spacing: 0.5px;
+  width: 100%;
+}
+
+.description-line {
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0.2rem 0;
+}
+
+.description-line .spaces {
+  display: inline-block;
+  width: 0;
+  animation: typeSpaces 0.5s steps(3) forwards;
+}
+
+.description-line .content {
+  display: inline-block;
+  width: 0;
+  overflow: hidden;
+  border-right: 2px solid var(--terminal-magenta);
+}
+
+.line-1 .spaces {
+  animation-delay: 1s;
+}
+
+.line-1 .content {
+  animation: typeContent 1.5s steps(40) 1.5s forwards, blink 1s 1.5s 2, hideCursor 0s 3s forwards;
+}
+
+.line-2 .spaces {
+  animation-delay: 3s;
+}
+
+.line-2 .content {
+  animation: typeContent 1.5s steps(40) 3.5s forwards, blink 1s 3.5s 2, hideCursor 0s 5s forwards;
+}
+
+.line-3 .spaces {
+  animation-delay: 5s;
+}
+
+.line-3 .content {
+  animation: typeContent 1.5s steps(40) 5.5s forwards, blink 1s 5.5s infinite;
+}
+
+@keyframes typeSpaces {
+  from {
+    width: 0;
+  }
+  to {
+    width: 3ch;
+  }
+}
+
+@keyframes typeContent {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  0%, 50% {
+    border-color: var(--terminal-magenta);
+  }
+  51%, 100% {
+    border-color: transparent;
+  }
+}
+
+@keyframes hideCursor {
+  to {
+    border-right-color: transparent;
+  }
+}
+
+.start-button-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.start-button {
+  background: rgba(0, 0, 0, 0.9);
+  border: 2px solid var(--terminal-purple);
+  color: var(--terminal-purple);
+  padding: 1.5rem;
+  border-radius: 0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+  font-family: inherit;
+  width: 100%;
+  max-width: 450px;
+  position: relative;
+  overflow: hidden;
+}
+
+.start-button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(179, 0, 255, 0.3),
+    rgba(255, 0, 191, 0.2),
+    transparent
+  );
+  transition: left 0.5s ease;
+}
+
+.start-button:hover::before {
+  left: 100%;
+}
+
+.start-button:hover {
+  background: rgba(179, 0, 255, 0.1);
+  border-color: var(--terminal-pink);
+  color: var(--terminal-pink);
+  transform: translateY(-2px);
+}
+
+.mode-icon {
+  font-size: 1.3rem;
+  margin-bottom: 0.8rem;
+  color: var(--terminal-magenta);
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-align: center;
+  width: 100%;
+}
+
+.start-button h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.4rem;
+  color: inherit;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+  text-align: center;
+  width: 100%;
+}
+
+.start-button p {
+  font-size: 1.3rem;
+  opacity: 0.8;
+  color: inherit;
+  letter-spacing: 0.5px;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .mode-selector {
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .mode-selector h2 {
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+  }
+
+  .description {
+    font-size: 1.1rem;
+    letter-spacing: 0.3px;
+  }
+
+  .start-button {
+    padding: 1.2rem;
+  }
+
+  .mode-icon {
+    font-size: 1.1rem;
+  }
+
+  .start-button h3 {
+    font-size: 1.1rem;
+  }
+
+  .start-button p {
+    font-size: 1.1rem;
+  }
+} 

@@ -1,0 +1,310 @@
+{
+  "tools": [
+    {
+      "filename": "BeEF.png",
+      "displayName": "BeEF",
+      "path": "/tools/BeEF.png"
+    },
+    {
+      "filename": "Greenbone-OpenVAS.png",
+      "displayName": "Greenbone OpenVAS",
+      "path": "/tools/Greenbone-OpenVAS.png"
+    },
+    {
+      "filename": "HackRF.png",
+      "displayName": "HackRF",
+      "path": "/tools/HackRF.png"
+    },
+    {
+      "filename": "IDA-pro.jpg",
+      "displayName": "IDA Pro",
+      "path": "/tools/IDA-pro.jpg"
+    },
+    {
+      "filename": "Podman.png",
+      "displayName": "Podman",
+      "path": "/tools/Podman.png"
+    },
+    {
+      "filename": "Scapy.png",
+      "displayName": "Scapy",
+      "path": "/tools/Scapy.png"
+    },
+    {
+      "filename": "Tor-Browser.png",
+      "displayName": "Tor Browser",
+      "path": "/tools/Tor-Browser.png"
+    },
+    {
+      "filename": "Tor.png",
+      "displayName": "Tor",
+      "path": "/tools/Tor.png"
+    },
+    {
+      "filename": "USB-Rubber-Ducky.png",
+      "displayName": "USB Rubber Ducky",
+      "path": "/tools/USB-Rubber-Ducky.png"
+    },
+    {
+      "filename": "ZAP.png",
+      "displayName": "ZAP",
+      "path": "/tools/ZAP.png"
+    },
+    {
+      "filename": "afl-plus-plus.png",
+      "displayName": "Afl Plus Plus",
+      "path": "/tools/afl-plus-plus.png"
+    },
+    {
+      "filename": "aircrack-ng.png",
+      "displayName": "Aircrack Ng",
+      "path": "/tools/aircrack-ng.png"
+    },
+    {
+      "filename": "autopsy.png",
+      "displayName": "Autopsy",
+      "path": "/tools/autopsy.png"
+    },
+    {
+      "filename": "bash-bunny.jpg",
+      "displayName": "Bash Bunny",
+      "path": "/tools/bash-bunny.jpg"
+    },
+    {
+      "filename": "binary-ninja.png",
+      "displayName": "Binary Ninja",
+      "path": "/tools/binary-ninja.png"
+    },
+    {
+      "filename": "bloodhound.png",
+      "displayName": "Bloodhound",
+      "path": "/tools/bloodhound.png"
+    },
+    {
+      "filename": "brakeman.png",
+      "displayName": "Brakeman",
+      "path": "/tools/brakeman.png"
+    },
+    {
+      "filename": "burpsuite.png",
+      "displayName": "Burpsuite",
+      "path": "/tools/burpsuite.png"
+    },
+    {
+      "filename": "clamav.png",
+      "displayName": "Clamav",
+      "path": "/tools/clamav.png"
+    },
+    {
+      "filename": "coverity.png",
+      "displayName": "Coverity",
+      "path": "/tools/coverity.png"
+    },
+    {
+      "filename": "crowdstrike.png",
+      "displayName": "Crowdstrike",
+      "path": "/tools/crowdstrike.png"
+    },
+    {
+      "filename": "dependabot.png",
+      "displayName": "Dependabot",
+      "path": "/tools/dependabot.png"
+    },
+    {
+      "filename": "ettercap.png",
+      "displayName": "Ettercap",
+      "path": "/tools/ettercap.png"
+    },
+    {
+      "filename": "evilginx2.png",
+      "displayName": "Evilginx2",
+      "path": "/tools/evilginx2.png"
+    },
+    {
+      "filename": "flipper-zero.png",
+      "displayName": "Flipper Zero",
+      "path": "/tools/flipper-zero.png"
+    },
+    {
+      "filename": "fortinet.png",
+      "displayName": "Fortinet",
+      "path": "/tools/fortinet.png"
+    },
+    {
+      "filename": "ghidra.png",
+      "displayName": "Ghidra",
+      "path": "/tools/ghidra.png"
+    },
+    {
+      "filename": "hashcat.png",
+      "displayName": "Hashcat",
+      "path": "/tools/hashcat.png"
+    },
+    {
+      "filename": "hydra.png",
+      "displayName": "Hydra",
+      "path": "/tools/hydra.png"
+    },
+    {
+      "filename": "john-the-ripper.png",
+      "displayName": "John The Ripper",
+      "path": "/tools/john-the-ripper.png"
+    },
+    {
+      "filename": "kali-linux.png",
+      "displayName": "Kali Linux",
+      "path": "/tools/kali-linux.png"
+    },
+    {
+      "filename": "l0phtcrack.png",
+      "displayName": "L0phtcrack",
+      "path": "/tools/l0phtcrack.png"
+    },
+    {
+      "filename": "maltego.png",
+      "displayName": "Maltego",
+      "path": "/tools/maltego.png"
+    },
+    {
+      "filename": "masscan.png",
+      "displayName": "Masscan",
+      "path": "/tools/masscan.png"
+    },
+    {
+      "filename": "metasploit.png",
+      "displayName": "Metasploit",
+      "path": "/tools/metasploit.png"
+    },
+    {
+      "filename": "mimikatz.png",
+      "displayName": "Mimikatz",
+      "path": "/tools/mimikatz.png"
+    },
+    {
+      "filename": "nessus.png",
+      "displayName": "Nessus",
+      "path": "/tools/nessus.png"
+    },
+    {
+      "filename": "nmap.png",
+      "displayName": "Nmap",
+      "path": "/tools/nmap.png"
+    },
+    {
+      "filename": "ollydbg.png",
+      "displayName": "Ollydbg",
+      "path": "/tools/ollydbg.png"
+    },
+    {
+      "filename": "osquery.png",
+      "displayName": "Osquery",
+      "path": "/tools/osquery.png"
+    },
+    {
+      "filename": "owasp.jpeg",
+      "displayName": "Owasp",
+      "path": "/tools/owasp.jpeg"
+    },
+    {
+      "filename": "postman.png",
+      "displayName": "Postman",
+      "path": "/tools/postman.png"
+    },
+    {
+      "filename": "radare2.png",
+      "displayName": "Radare2",
+      "path": "/tools/radare2.png"
+    },
+    {
+      "filename": "rustscan.png",
+      "displayName": "Rustscan",
+      "path": "/tools/rustscan.png"
+    },
+    {
+      "filename": "semgrep.png",
+      "displayName": "Semgrep",
+      "path": "/tools/semgrep.png"
+    },
+    {
+      "filename": "sentinelone.jpg",
+      "displayName": "Sentinelone",
+      "path": "/tools/sentinelone.jpg"
+    },
+    {
+      "filename": "shodan.png",
+      "displayName": "Shodan",
+      "path": "/tools/shodan.png"
+    },
+    {
+      "filename": "snort.png",
+      "displayName": "Snort",
+      "path": "/tools/snort.png"
+    },
+    {
+      "filename": "splunk.png",
+      "displayName": "Splunk",
+      "path": "/tools/splunk.png"
+    },
+    {
+      "filename": "sqlmap.png",
+      "displayName": "Sqlmap",
+      "path": "/tools/sqlmap.png"
+    },
+    {
+      "filename": "thinkst-canary.png",
+      "displayName": "Thinkst Canary",
+      "path": "/tools/thinkst-canary.png"
+    },
+    {
+      "filename": "tmux.png",
+      "displayName": "Tmux",
+      "path": "/tools/tmux.png"
+    },
+    {
+      "filename": "trufflehog.png",
+      "displayName": "Trufflehog",
+      "path": "/tools/trufflehog.png"
+    },
+    {
+      "filename": "virustotal.png",
+      "displayName": "Virustotal",
+      "path": "/tools/virustotal.png"
+    },
+    {
+      "filename": "vx-underground.png",
+      "displayName": "VX-Underground",
+      "path": "/tools/vx-underground.png"
+    },
+    {
+      "filename": "w3af.webp",
+      "displayName": "W3af",
+      "path": "/tools/w3af.webp"
+    },
+    {
+      "filename": "wifi-pineapple.png",
+      "displayName": "Wifi Pineapple",
+      "path": "/tools/wifi-pineapple.png"
+    },
+    {
+      "filename": "wireshark.png",
+      "displayName": "Wireshark",
+      "path": "/tools/wireshark.png"
+    },
+    {
+      "filename": "wpscan.png",
+      "displayName": "Wpscan",
+      "path": "/tools/wpscan.png"
+    },
+    {
+      "filename": "yara.png",
+      "displayName": "Yara",
+      "path": "/tools/yara.png"
+    }
+  ],
+  "xAccounts": [],
+  "generatedAt": "2025-06-12T04:32:35.672Z",
+  "counts": {
+    "tools": 60,
+    "xAccounts": 0
+  }
+}

@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;700&family=Courier+Prime:wght@400;700&display=swap');
+
+/* Add unifont font-face declaration */
+@font-face {
+  font-family: 'Unifont';
+  src: url('/unifont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  font-family: 'Unifont', 'JetBrains Mono', 'Courier Prime', 'Courier New', monospace;
+  line-height: 1.4;
+  font-weight: 400;
+
+  color-scheme: dark;
+  color: #ff00ff;
+  background-color: #000000;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  /* Terminal CRT effects */
+  --terminal-green: #ff00ff;
+  --terminal-amber: #ffb000;
+  --terminal-red: #ff0000;
+  --terminal-blue: #0080ff;
+  --terminal-purple: #b300ff;
+  --terminal-pink: #ff00bf;
+  --terminal-orange: #ff4500;
+  --terminal-cyan: #00ffff;
+  --terminal-magenta: #ff00ff;
+  --background-dark: #000000;
+  --background-darker: #0a0a0a;
+  --scan-line-opacity: 0.03;
+}
+
+/* CRT screen curvature effect */
+html {
+  background: #000;
+}
+
+body {
+  /* Subtle screen curvature */
+  background: 
+    radial-gradient(ellipse at center, transparent 70%, rgba(0, 0, 0, 0.4) 100%),
+    #000000;
+  margin: 0;
+  width: 100%;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background: var(--background-dark);
+  overflow-x: hidden;
+}
+
+a {
+  font-weight: 400;
+  color: var(--terminal-blue);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--terminal-amber);
+}
+
+h1 {
+  font-size: 2.5em;
+  line-height: 1.1;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+button {
+  border-radius: 0;
+  border: 2px solid var(--terminal-magenta);
+  padding: 0.6em 1.2em;
+  font-size: 0.9em;
+  font-weight: 400;
+  font-family: inherit;
+  background-color: var(--background-darker);
+  color: var(--terminal-magenta);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  letter-spacing: 0.5px;
+}
+
+button:hover {
+  background-color: rgba(255, 0, 255, 0.1);
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

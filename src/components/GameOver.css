@@ -1,0 +1,290 @@
+.game-over {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  text-align: center;
+  padding: 2rem;
+  background: rgba(0, 0, 0, 0.9);
+  width: 100%;
+  position: relative;
+}
+
+.game-over-container {
+  background: rgba(0, 0, 0, 0.95);
+  padding: 2rem;
+  max-width: 700px;
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+
+/* ASCII Border Styling */
+.ascii-border-top,
+.ascii-border-bottom,
+.ascii-border-separator,
+.border-title,
+.ascii-border-score-top,
+.ascii-border-score-bottom,
+.ascii-border-info-top,
+.ascii-border-info-bottom,
+.ascii-border-button-top,
+.ascii-border-button-bottom,
+.ascii-border-tips-top,
+.ascii-border-tips-bottom {
+  font-family: 'Courier New', monospace;
+  color: var(--terminal-cyan);
+  font-size: 0.8rem;
+  letter-spacing: 0.5px;
+  line-height: 1;
+  margin: 0.2rem 0;
+  white-space: pre;
+  overflow: hidden;
+}
+
+.border-title {
+  color: var(--terminal-magenta);
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.ascii-border-score-top,
+.ascii-border-score-bottom {
+  color: var(--terminal-pink);
+}
+
+.ascii-border-info-top,
+.ascii-border-info-bottom {
+  color: var(--terminal-purple);
+}
+
+.ascii-border-button-top,
+.ascii-border-button-bottom {
+  color: var(--terminal-magenta);
+}
+
+.ascii-border-tips-top,
+.ascii-border-tips-bottom {
+  color: var(--terminal-orange);
+}
+
+.game-over-container h2 {
+  color: #ff0000;
+  font-size: 2rem;
+  margin: 1.5rem 0;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+
+.final-score {
+  margin-bottom: 1.5rem;
+  padding: 1.5rem 0.5rem;
+  background: rgba(255, 0, 191, 0.05);
+  position: relative;
+}
+
+.score-display {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 0.8rem 0;
+  letter-spacing: 2px;
+}
+
+.score-display.gold {
+  color: #ffd700;
+}
+
+.score-display.silver {
+  color: #c0c0c0;
+}
+
+.score-display.bronze {
+  color: #cd7f32;
+}
+
+.score-display.good {
+  color: #ff00ff;
+}
+
+.score-display.novice {
+  color: #ffb000;
+}
+
+.score-message {
+  font-size: 1.2rem;
+  color: #ff00ff;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin: 0.8rem 0;
+}
+
+.game-info {
+  margin-bottom: 1.5rem;
+  padding: 0.8rem 0.5rem;
+  background: rgba(179, 0, 255, 0.05);
+}
+
+.game-info p {
+  color: var(--terminal-cyan);
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  margin: 0.5rem 0;
+}
+
+.mode {
+  color: var(--terminal-orange);
+  font-weight: 700;
+}
+
+.actions {
+  margin-bottom: 1.5rem;
+  padding: 0.5rem;
+}
+
+.restart-button {
+  background: rgba(0, 0, 0, 0.9);
+  border: none;
+  color: var(--terminal-magenta);
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: inherit;
+  letter-spacing: 1px;
+  font-weight: 700;
+  position: relative;
+  overflow: hidden;
+  margin: 0.5rem 0;
+}
+
+.restart-button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 0, 255, 0.4),
+    rgba(255, 0, 191, 0.3),
+    transparent
+  );
+  transition: left 0.6s ease;
+}
+
+.restart-button:hover::before {
+  left: 100%;
+}
+
+.restart-button:hover {
+  background: rgba(255, 0, 255, 0.1);
+  color: var(--terminal-pink);
+  transform: translateY(-2px);
+}
+
+.restart-button:active {
+  transform: translateY(0) scale(0.98);
+}
+
+.tips {
+  padding: 1.2rem 0.5rem;
+  background: rgba(255, 69, 0, 0.05);
+  position: relative;
+}
+
+.tips h3 {
+  color: var(--terminal-purple);
+  font-size: 1.1rem;
+  margin: 0.8rem 0;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+}
+
+.tips ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.8rem 0;
+}
+
+.tips li {
+  color: var(--terminal-cyan);
+  margin-bottom: 0.6rem;
+  padding-left: 1.2rem;
+  position: relative;
+  letter-spacing: 0.3px;
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+.tips li::before {
+  content: "▶";
+  position: absolute;
+  left: 0;
+  color: var(--terminal-pink);
+}
+
+@media (max-width: 768px) {
+  .game-over {
+    min-height: 60vh;
+    padding: 1rem;
+  }
+
+  .game-over-container {
+    padding: 1.5rem 1rem;
+    margin: 0.5rem;
+  }
+
+  .ascii-border-top,
+  .ascii-border-bottom,
+  .ascii-border-separator,
+  .border-title,
+  .ascii-border-score-top,
+  .ascii-border-score-bottom,
+  .ascii-border-info-top,
+  .ascii-border-info-bottom,
+  .ascii-border-button-top,
+  .ascii-border-button-bottom,
+  .ascii-border-tips-top,
+  .ascii-border-tips-bottom {
+    font-size: 0.6rem;
+    letter-spacing: 0.3px;
+  }
+
+  .game-over-container h2 {
+    font-size: 1.6rem;
+    letter-spacing: 1px;
+    margin: 1rem 0;
+  }
+
+  .score-display {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+  }
+
+  .score-message {
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+  }
+
+  .game-info p {
+    font-size: 0.9rem;
+  }
+
+  .restart-button {
+    padding: 0.8rem 1.5rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+  }
+
+  .tips h3 {
+    font-size: 1rem;
+  }
+
+  .tips li {
+    font-size: 0.7rem;
+    margin-bottom: 0.5rem;
+  }
+} 
