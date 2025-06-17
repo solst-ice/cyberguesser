@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#000000"/>
+  
+  <!-- Terminal prompt with cursor -->
+  <text x="4" y="22" font-family="monospace" font-size="14" fill="#ff00ff">$ _</text>
+</svg> 
