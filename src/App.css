@@ -46,6 +46,10 @@ body {
 @media (max-width: 768px) {
   .app {
     padding: 10px;
+    width: 100vw;
+    max-width: 100vw;
+    overflow-x: hidden;
+    box-sizing: border-box;
   }
   
   .app-header {
@@ -60,6 +64,14 @@ body {
   .app-header p {
     font-size: 0.7rem;
     letter-spacing: 0.5px;
+  }
+
+  #root {
+    padding: 0.5rem;
+    width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
+    box-sizing: border-box;
   }
 }
 

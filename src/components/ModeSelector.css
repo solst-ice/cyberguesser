@@ -218,20 +218,42 @@
   .mode-selector {
     padding: 1rem;
     gap: 1rem;
+    max-width: 100vw;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .ascii-line {
+    font-size: 0.8rem;
+    letter-spacing: 0.2px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   .mode-selector h2 {
     font-size: 1.1rem;
     letter-spacing: 0.5px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   .description {
     font-size: 1.1rem;
     letter-spacing: 0.3px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .description-line {
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   .start-button {
     padding: 1.2rem;
+    max-width: 100%;
+    box-sizing: border-box;
   }
 
   .mode-icon {
@@ -240,9 +262,13 @@
 
   .start-button h3 {
     font-size: 1.1rem;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   .start-button p {
     font-size: 1.1rem;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 } 
